@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7823d781-b377-4cdf-89df-9996959a945b
+:END:
+#+title: Akkadian: akkadian
+#+filetags: :akkadian:
+#+author: Rahvax
+#+date: [2025-07-15 Tue 15:24]
+
+* Index Of
+- idiomas
+- povos
+- informações
+
